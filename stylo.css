@@ -70,6 +70,7 @@
     cursor: pointer;
     background-color: teal;
     color: white;
+    box-shadow: 10px 8px 5px #393838;
 }
 
 button:hover{
